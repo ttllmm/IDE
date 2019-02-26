@@ -1,0 +1,13 @@
+<application>
+  <component name="HadoopNavigator.DefaultProject.Settings">
+    <connections />
+    <general-settings>
+      <regional-settings>
+        <locale value="zh-CN" />
+      </regional-settings>
+      <browser-settings>
+        <browserdisplaymode value="Multiple tabs tree" />
+      </browser-settings>
+    </general-settings>
+  </component>
+</application>
